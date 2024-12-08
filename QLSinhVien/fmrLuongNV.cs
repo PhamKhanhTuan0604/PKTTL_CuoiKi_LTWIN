@@ -32,20 +32,20 @@ namespace QLSinhVien
 
             if (!double.TryParse(txtDiemTB.Text, out luongcb))
             {
-                MessageBox.Show("Vui long nhap so", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Vui lòng nhập số", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
 
             if (!double.TryParse(txt_Ngaylam.Text, out songay))
             {
-                MessageBox.Show("Vui long nhap so", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Vui lòng nhập số", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
             if (!double.TryParse(txtPhucap.Text , out phucap))
             {
-                MessageBox.Show("Vui long nhap so", "Thong bao", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Vui lòng nhập số", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
             double tong;

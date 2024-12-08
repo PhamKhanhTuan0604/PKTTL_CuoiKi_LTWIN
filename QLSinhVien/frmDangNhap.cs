@@ -1,9 +1,11 @@
-﻿using System;
+﻿using Microsoft.ReportingServices.ReportProcessing.ReportObjectModel;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -22,6 +24,57 @@ namespace QLSinhVien
             string username = txtTaiKhoan.Text;
             string password = txtMatKhau.Text;
 
+            if(username == "" || password == "")
+            {
+                MessageBox.Show("Mời bạn nhập đầy đủ thông tin", "Thông báo", MessageBoxButtons.OK);
+                txtTaiKhoan.Focus();
+                return;
+            }
+            else
+            {
+                dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+                TaiKhoan tk = db.TaiKhoans.SingleOrDefault(p => p.TenTKhoan == username);
+                if (tk != null)
+                {
+                    #region kiem tra mat khau dang luu tru
+                    MD5 md5 = MD5.Create();
+                    byte[] inputBytes = System.Text.Encoding.ASCII.GetBytes(password+tk.OTP);
+                    byte[] hashBytes = md5.ComputeHash(inputBytes);
+                    if(tk.MatKhau == hashBytes)
+                    {
+                        if(tk.LevelID == 1)
+                        {
+                            string quyen = "admin";
+                            MessageBox.Show("Chào mừng admin " + username + " quay trở lại!", "Thông báo", MessageBoxButtons.OK);
+                            frmQuanLi frm = new frmQuanLi(quyen);
+                            frm.Show();
+                            this.Hide(); // Ẩn form đăng nhập
+             
+                        }    
+                        if(tk.LevelID == 0)
+                        {
+                            string quyen = "user";
+                            MessageBox.Show("Xin chào " + username + " quay trở lại!", "Thông báo", MessageBoxButtons.OK);
+                            frmQuanLi frm = new frmQuanLi(quyen);
+                            frm.Show();
+                            this.Hide(); // Ẩn form đăng nhập
+                        }
+                        return;
+                        
+                    }    
+                    #endregion
+
+                }
+                
+    
+                 MessageBox.Show("Tài khoản không tồn tại. Mời nhập lại!!", "Thông báo", MessageBoxButtons.OK);
+                 txtTaiKhoan.Focus();
+                 return;
+        
+            }
+                
+                
+            /*
             using (var context = new dbQLSinhVienDataContext())
             {
 
@@ -31,7 +84,7 @@ namespace QLSinhVien
                 {
                     MessageBox.Show("Đăng nhập thành công");
                     frmQuanLi frmQLNS = new frmQuanLi(user.TenTKhoan); 
-                    frmQLNS.ShowDialog();
+                    frmQLNS.Show();
                     this.Hide(); // Ẩn form đăng nhập
                 }
                 else
@@ -39,6 +92,7 @@ namespace QLSinhVien
                     MessageBox.Show("Đăng nhập thất bại");
                 }
             }
+            */
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

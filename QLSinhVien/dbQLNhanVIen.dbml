@@ -35,13 +35,6 @@
       <Association Name="PhongBan_NhanVien" Member="NhanViens" ThisKey="MaPhongBan" OtherKey="MaPhongBan" Type="NhanVien" />
     </Type>
   </Table>
-  <Table Name="dbo.TaiKhoan" Member="TaiKhoans">
-    <Type Name="TaiKhoan">
-      <Column Name="TenTKhoan" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
-      <Column Name="MatKhau" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
-      <Association Name="TaiKhoan_NhanVien" Member="NhanViens" ThisKey="TenTKhoan" OtherKey="TenTKhoan" Type="NhanVien" />
-    </Type>
-  </Table>
   <Table Name="dbo.HopDong" Member="HopDongs">
     <Type Name="HopDong">
       <Column Name="SoHD" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
@@ -74,7 +67,6 @@
       <Association Name="ChucVu_NhanVien" Member="ChucVu" ThisKey="MaChucVu" OtherKey="MaChucVu" Type="ChucVu" IsForeignKey="true" />
       <Association Name="HopDong_NhanVien" Member="HopDong" ThisKey="SoHD" OtherKey="SoHD" Type="HopDong" IsForeignKey="true" />
       <Association Name="PhongBan_NhanVien" Member="PhongBan" ThisKey="MaPhongBan" OtherKey="MaPhongBan" Type="PhongBan" IsForeignKey="true" />
-      <Association Name="TaiKhoan_NhanVien" Member="TaiKhoan" ThisKey="TenTKhoan" OtherKey="TenTKhoan" Type="TaiKhoan" IsForeignKey="true" />
     </Type>
   </Table>
   <Table Name="dbo.TangCa" Member="TangCas">
@@ -84,6 +76,19 @@
       <Column Name="SoGioTC" Type="System.Int32" DbType="Int" CanBeNull="true" />
       <Column Name="LuongTC" Type="System.Int32" DbType="Int" CanBeNull="true" />
       <Association Name="NhanVien_TangCa" Member="NhanVien" ThisKey="MaNV" OtherKey="MaNV" Type="NhanVien" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TaiKhoan" Member="TaiKhoans">
+    <Type Name="TaiKhoan">
+      <Column Name="TenTKhoan" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="OTP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="OPTDateSend" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DateCreated" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DateActive" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Active" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="LevelID" Type="System.Int32" DbType="Int" CanBeNull="true" />
     </Type>
   </Table>
 </Database>
