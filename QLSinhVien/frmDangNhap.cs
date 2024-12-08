@@ -52,5 +52,10 @@ namespace QLSinhVien
             if (chkMK.Checked) txtMatKhau.UseSystemPasswordChar = false;
             else txtMatKhau.UseSystemPasswordChar = true;
         }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

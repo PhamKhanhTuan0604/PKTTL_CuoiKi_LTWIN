@@ -327,6 +327,7 @@
     <None Include="Resources\PKTTL_Logo_1.png" />
     <None Include="Resources\PKTTL_logo.png" />
     <None Include="Resources\LOGO_CTY.png" />
+    <None Include="Resources\PKTTL_Background.jpg" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
