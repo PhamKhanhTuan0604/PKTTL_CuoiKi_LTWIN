@@ -36,9 +36,18 @@ namespace QLSinhVien
                 TaiKhoan tk = db.TaiKhoans.SingleOrDefault(p => p.TenTKhoan == username);
                 if (tk != null)
                 {
+                    //Kiem tra trang thai active chua => Nhap du lieu ma OTP
+                    if(tk.Active == false)
+                    {
+                        MessageBox.Show("Tài khoản chưa xác thực. Vui lòng nhập OTP để xác thực!", "Thông báo");
+                        frmXacThuc frm = new frmXacThuc(tk.TenTKhoan);
+                        frm.Show();
+                        return;
+                    }    
+
                     #region kiem tra mat khau dang luu tru
                     MD5 md5 = MD5.Create();
-                    byte[] inputBytes = System.Text.Encoding.ASCII.GetBytes(password+tk.OTP);
+                    byte[] inputBytes = System.Text.Encoding.ASCII.GetBytes(password+tk.RamdomKey);
                     byte[] hashBytes = md5.ComputeHash(inputBytes);
                     if(tk.MatKhau == hashBytes)
                     {

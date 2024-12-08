@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dbQLSinhVien">
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.875" name="dbQLSinhVien">
   <DataContextMoniker Name="/dbQLSinhVienDataContext" />
   <nestedChildShapes>
     <classShape Id="5dc16621-9dc4-4498-ab9b-d7e31a104e28" absoluteBounds="1.25, 2.625, 2, 1.5785953776041666">
@@ -26,7 +26,7 @@
         <elementListCompartment Id="69b00533-a76b-409a-a266-423f82218ebe" absoluteBounds="1.1400000000000001, 1.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(3.125 : 1.31814697265625); (7 : 1.31814697265625); (7 : 2.32859537760417); (7.44791666666667 : 2.32859537760417 : JumpStart); (7.61458333333333 : 2.32859537760417 : JumpEnd); (8.875 : 2.32859537760417); (8.875 : 2.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(3.125 : 1.31814697265625); (7 : 1.31814697265625); (7 : 2.32859537760417); (7.44791666666667 : 2.32859537760417 : JumpStart); (7.61458333333333 : 2.32859537760417 : JumpEnd); (8.875 : 2.32859537760417); (8.875 : 2.625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/dbQLSinhVienDataContext/PhongBan/PhongBan_ChucVu" />
       <nodes>
         <classShapeMoniker Id="9e4890da-af3d-4162-8581-ba85e2013b10" />
@@ -45,7 +45,7 @@
         <elementListCompartment Id="0e37ca90-4900-41b9-9e57-e11b553d9f1d" absoluteBounds="4.39, 2.71, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(4.375 : 3.41429768880208); (3.25 : 3.41429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(4.375 : 3.41429768880208); (3.25 : 3.41429768880208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/dbQLSinhVienDataContext/NhanVien/NhanVien_ChiTietNghiPhep" />
       <nodes>
         <classShapeMoniker Id="14b030ff-00d6-493d-b84d-d9f6f82829bc" />
@@ -80,7 +80,7 @@
         <classShapeMoniker Id="14b030ff-00d6-493d-b84d-d9f6f82829bc" />
       </nodes>
     </associationConnector>
-    <associationConnector edgePoints="[(3.125 : 1.69597295898437); (5.375 : 1.69597295898437); (5.375 : 2.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(3.125 : 1.69597295898437); (5.375 : 1.69597295898437); (5.375 : 2.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/dbQLSinhVienDataContext/PhongBan/PhongBan_NhanVien" />
       <nodes>
         <classShapeMoniker Id="9e4890da-af3d-4162-8581-ba85e2013b10" />
@@ -100,10 +100,10 @@
         <classShapeMoniker Id="3029c353-15eb-4a40-a055-4e385e214497" />
       </nodes>
     </associationConnector>
-    <classShape Id="c7915ba1-e4f7-448b-a679-8197b01dffc2" absoluteBounds="7.75, 5.75, 2, 2.5401025390625">
+    <classShape Id="00c1993e-9036-42b0-bfa2-8e961f18e75a" absoluteBounds="7.625, 5.875, 2, 2.7324039713541666">
       <DataClassMoniker Name="/dbQLSinhVienDataContext/TaiKhoan" />
       <nestedChildShapes>
-        <elementListCompartment Id="b55d3263-ba64-4510-a079-f99ab00f3466" absoluteBounds="7.765, 6.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="8c4f299e-99d5-4a68-8913-090410e2d807" absoluteBounds="7.64, 6.335, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
   </nestedChildShapes>

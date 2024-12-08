@@ -83,6 +83,7 @@
       <Column Name="TenTKhoan" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
       <Column Name="MatKhau" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
       <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="RamdomKey" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
       <Column Name="OTP" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
       <Column Name="OPTDateSend" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
       <Column Name="DateCreated" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />

@@ -63,7 +63,7 @@ namespace QLSinhVien
             #region Tao tai khoan moi va ma hoa mat khau
             //Kiem tra du lieu dien day du
             if(txtTenTK_DK.Text == "" || txtMK_DK.Text == "" || txtEmail.Text == ""
-                || txtNhapLaiMK.Text == "" /*|| txtOTP.Text == ""*/)
+                || txtNhapLaiMK.Text == "" )
             {
                 MessageBox.Show("Mời bạn nhập đầy đủ thông tin", "Thông báo");
                 return;
@@ -96,6 +96,7 @@ namespace QLSinhVien
             tk.MatKhau = hashBytes; // Mat khau da ma khoa
             tk.Email = email;
             tk.OTP = otp;
+            tk.RamdomKey = otp;
             tk.OPTDateSend = DateTime.Now;
             tk.DateCreated = DateTime.Now;
             tk.DateActive = null;
@@ -105,7 +106,18 @@ namespace QLSinhVien
             db.TaiKhoans.InsertOnSubmit(tk); // chen vo csdl
             db.SubmitChanges(); // dong bo csdl
             MessageBox.Show("Tạo tài khoản thành công!", "Thông báo");
+
             #endregion
+
+            #region Gui Email xac thuc
+            SendMail.sendMailTo(tk.Email, "Mã OPT xác thực là: " + tk.OTP);
+            tk.OPTDateSend = DateTime.Now; // kiem soat thoi gian 5 phut hieu luc
+            db.SubmitChanges();
+            #endregion
+
+            frmXacThuc frm = new frmXacThuc(tk.TenTKhoan);
+            frm.Show();
+            this.Close();
         }
 
         private void label1_Click(object sender, EventArgs e)

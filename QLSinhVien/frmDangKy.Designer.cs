@@ -38,9 +38,6 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.txtEmail = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.txtOTP = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -101,7 +98,7 @@
             // 
             this.btnDangKy.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDangKy.ForeColor = System.Drawing.Color.Blue;
-            this.btnDangKy.Location = new System.Drawing.Point(278, 420);
+            this.btnDangKy.Location = new System.Drawing.Point(247, 340);
             this.btnDangKy.Name = "btnDangKy";
             this.btnDangKy.Size = new System.Drawing.Size(182, 55);
             this.btnDangKy.TabIndex = 2;
@@ -137,34 +134,6 @@
             this.txtEmail.Size = new System.Drawing.Size(286, 22);
             this.txtEmail.TabIndex = 5;
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(172, 331);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(43, 20);
-            this.label6.TabIndex = 4;
-            this.label6.Text = "OTP";
-            // 
-            // txtOTP
-            // 
-            this.txtOTP.Location = new System.Drawing.Point(230, 329);
-            this.txtOTP.Name = "txtOTP";
-            this.txtOTP.Size = new System.Drawing.Size(187, 22);
-            this.txtOTP.TabIndex = 5;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.Color.Red;
-            this.label7.Location = new System.Drawing.Point(316, 371);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(200, 20);
-            this.label7.TabIndex = 4;
-            this.label7.Text = "OTP hiệu lực trong 5 phút";
-            // 
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = global::QLSinhVien.Properties.Resources.PKTTL_logo;
@@ -182,9 +151,6 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(643, 500);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.txtOTP);
-            this.Controls.Add(this.label7);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -215,9 +181,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox txtEmail;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox txtOTP;
-        private System.Windows.Forms.Label label7;
         private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

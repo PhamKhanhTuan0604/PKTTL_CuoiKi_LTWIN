@@ -1797,6 +1797,8 @@ namespace QLSinhVien
 		
 		private string _Email;
 		
+		private string _RamdomKey;
+		
 		private string _OTP;
 		
 		private System.Nullable<System.DateTime> _OPTDateSend;
@@ -1819,6 +1821,8 @@ namespace QLSinhVien
     partial void OnMatKhauChanged();
     partial void OnEmailChanging(string value);
     partial void OnEmailChanged();
+    partial void OnRamdomKeyChanging(string value);
+    partial void OnRamdomKeyChanged();
     partial void OnOTPChanging(string value);
     partial void OnOTPChanged();
     partial void OnOPTDateSendChanging(System.Nullable<System.DateTime> value);
@@ -1894,6 +1898,26 @@ namespace QLSinhVien
 					this._Email = value;
 					this.SendPropertyChanged("Email");
 					this.OnEmailChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_RamdomKey", DbType="VarChar(50)")]
+		public string RamdomKey
+		{
+			get
+			{
+				return this._RamdomKey;
+			}
+			set
+			{
+				if ((this._RamdomKey != value))
+				{
+					this.OnRamdomKeyChanging(value);
+					this.SendPropertyChanging();
+					this._RamdomKey = value;
+					this.SendPropertyChanged("RamdomKey");
+					this.OnRamdomKeyChanged();
 				}
 			}
 		}
