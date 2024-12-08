@@ -1,0 +1,771 @@
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\EnvDTE.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\stdole.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\Microsoft.MSXML.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmHienThi.resources
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmLop.resources
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CopyComplete
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmHocSinh.resources
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\RdlCompile.cache
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\RdlCompile.compiled
+E:\Workspace\VisualStudioProject\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiReport.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.exe
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.pdb
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\EnvDTE.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\stdole.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\Microsoft.MSXML.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHienThi.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiReport.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHocSinh.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmLop.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.Up2Date
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.exe
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BT\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.pdb
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.exe
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.pdb
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.exe
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.pdb
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\EnvDTE.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\stdole.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.MSXML.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.Up2Date
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHienThi.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiReport.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHocSinh.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmLop.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.fmrLuongNV.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmQuanLi.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmDangNhap.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmDiemDanh.resources
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.exe
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.pdb
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\EnvDTE.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.MSXML.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.fmrLuongNV.resources
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmDangNhap.resources
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmDiemDanh.resources
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHienThi.resources
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiReport.resources
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHocSinh.resources
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmLop.resources
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmQuanLi.resources
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.Up2Date
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.exe
+C:\Users\thang\Downloads\BanTEST (2)\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.pdb
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.exe
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.pdb
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\EnvDTE.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\stdole.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\Microsoft.MSXML.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.fmrLuongNV.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmDangNhap.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmDiemDanh.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiReport.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHocSinh.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmQuanLi.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.Up2Date
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.exe
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.pdb
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmAboutUs.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHopDong.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmDangKy.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiHopDong.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\BanTEST\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmTangCa.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.exe
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\QLSinhVien.pdb
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\EnvDTE.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\stdole.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\Microsoft.MSXML.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.fmrLuongNV.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmAboutUs.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmDangKy.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmDangNhap.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmDiemDanh.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiHopDong.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiReport.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHocSinh.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmHopDong.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmQuanLi.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.frmTangCa.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.csproj.Up2Date
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.exe
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\ReportViewer\QLSinhVien\obj\Debug\QLSinhVien.pdb
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\QLSinhVien.exe
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\QLSinhVien.pdb
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\EnvDTE.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\stdole.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\Microsoft.MSXML.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.fmrLuongNV.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.frmAboutUs.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.frmDangKy.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.frmDangNhap.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.frmDiemDanh.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiHopDong.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiReport.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.frmHocSinh.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.frmHopDong.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.frmQuanLi.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.frmTangCa.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.csproj.Up2Date
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.exe
+D:\NAM 2 HK2 (HOC TAP)\LTWIN\DoAn_CK\NguonCode\QLSinhVien\obj\Debug\QLSinhVien.pdb
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\stdole.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.fmrLuongNV.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmAboutUs.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmDangKy.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmDangNhap.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmDiemDanh.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiHopDong.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiReport.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmHocSinh.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmHopDong.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmQuanLi.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmTangCa.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.Up2Date
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+C:\Users\Admin\Source\Repos\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\stdole.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.fmrLuongNV.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmAboutUs.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmDangKy.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmDangNhap.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmDiemDanh.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiHopDong.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiReport.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmHocSinh.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmHopDong.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmQuanLi.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.frmTangCa.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.Up2Date
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+C:\Users\Admin\Documents\DoAn_QLNhanVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\QLSinhVien.exe
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\QLSinhVien.pdb
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\EnvDTE.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\stdole.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\Microsoft.MSXML.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.fmrLuongNV.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmAboutUs.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmDangKy.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmDangNhap.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmDiemDanh.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiHopDong.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmHienThiReport.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmHocSinh.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmHopDong.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmQuanLi.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmTangCa.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.csproj.Up2Date
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.exe
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.pdb
