@@ -10,12 +10,12 @@ namespace QLSinhVien
 {
     public static class SendMail
     {
-        public static string taikhoan = "ctypkttl@gmail.com";
-        public static string matkhau = "Alpha$4869!";
+        public static string taikhoan = "vanthien03022004@gmail.com";
+        public static string matkhau = "b b r s g s f s f n y w c x f m";
 
         public static bool sendMailTo(string emailto, string content)
         {
-            var fromAddress = new MailAddress("taikhoan", "Admin Công ty PKTTL");
+            var fromAddress = new MailAddress(taikhoan, "Admin Công ty PKTTL");
             var toAddress = new MailAddress(emailto, emailto);
             string fromPassword = matkhau;
             string subject = "Thông báo từ Công ty PKTTL";

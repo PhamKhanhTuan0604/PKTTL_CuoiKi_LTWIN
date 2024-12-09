@@ -64,11 +64,11 @@ namespace QLSinhVien
             // TODO: This line of code loads data into the 'qLNhanVienDataSet.NhanVien' table. You can move, or remove it, as needed.
             this.nhanVienTableAdapter.Fill(this.qLNhanVienDataSet.NhanVien);
             dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
-            TaiKhoan tk = db.TaiKhoans.Where(p => p.TenTKhoan == Phanquyen).FirstOrDefault();
+            TaiKhoan tk = db.TaiKhoans.Where(p => p.TenTKhoan == frmDangNhap.tenTK).FirstOrDefault();
             if (tk != null)
             {
                 // Nếu tên tài khoản trùng với quyền "user", ẩn các nút
-                if (tk.TenTKhoan == "user")
+                if (Phanquyen == "user")
                 {
                     btnThem.Visible = false;
                    
@@ -76,7 +76,7 @@ namespace QLSinhVien
 
                 }
                 // Nếu tên tài khoản trùng với quyền "admin", hiển thị tất cả các nút
-                else if (tk.TenTKhoan == "admin")
+                else if (Phanquyen == "admin")
                 {
                     btnThem.Visible = true;
                    

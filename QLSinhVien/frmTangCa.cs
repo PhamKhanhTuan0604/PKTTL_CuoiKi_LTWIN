@@ -88,18 +88,18 @@ namespace QLSinhVien
 
             // this.TangCaTableAdapter.Fill(this.qLNhanVienDataSetTangCa.TangCa);
             dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
-            TaiKhoan tk = db.TaiKhoans.Where(p => p.TenTKhoan == _quyen).FirstOrDefault();
+            TaiKhoan tk = db.TaiKhoans.Where(p => p.TenTKhoan == frmDangNhap.tenTK).FirstOrDefault();
             if (tk != null)
             {
                 // Nếu tên tài khoản trùng với quyền "user", ẩn các nút
-                if (tk.TenTKhoan == "user")
+                if (_quyen == "user")
                 {
                     btnTinh.Visible = false;
                    
 
                 }
                 // Nếu tên tài khoản trùng với quyền "admin", hiển thị tất cả các nút
-                else if (tk.TenTKhoan == "admin")
+                else if (_quyen == "admin")
                 {
                     btnTinh.Visible = true;
                  

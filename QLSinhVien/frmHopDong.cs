@@ -24,18 +24,18 @@ namespace QLSinhVien
         {
             // ktra();
             dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
-            TaiKhoan tk = db.TaiKhoans.Where(p => p.TenTKhoan == quyen1).FirstOrDefault();
+            TaiKhoan tk = db.TaiKhoans.Where(p => p.TenTKhoan == frmDangNhap.tenTK).FirstOrDefault();
             if (tk != null)
             {
                 // Nếu tên tài khoản trùng với quyền "user", ẩn các nút
-                if (tk.TenTKhoan == "user")
+                if (quyen1 == "user")
                 {
                     
                     grbDieuKhien.Visible = false;
 
                 }
                 // Nếu tên tài khoản trùng với quyền "admin", hiển thị tất cả các nút
-                else if (tk.TenTKhoan == "admin")
+                else if (quyen1 == "admin")
                 {
                    
                     grbDieuKhien.Visible = true;

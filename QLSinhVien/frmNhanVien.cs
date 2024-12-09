@@ -23,11 +23,11 @@ namespace QLSinhVien
         private void frmHocSinh_Load(object sender, EventArgs e)
         {
             dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
-            TaiKhoan tk = db.TaiKhoans.Where(p => p.TenTKhoan == quyen).FirstOrDefault();
+            TaiKhoan tk = db.TaiKhoans.Where(p => p.TenTKhoan == frmDangNhap.tenTK).FirstOrDefault();
             if (tk != null)
             {
                 // Nếu tên tài khoản trùng với quyền "user", ẩn các nút
-                if (tk.TenTKhoan == "user")
+                if (quyen == "user")
                 {
                     btnThem.Visible = false;
                     btnIn.Visible = false;
@@ -39,7 +39,7 @@ namespace QLSinhVien
                     
                 }
                 // Nếu tên tài khoản trùng với quyền "admin", hiển thị tất cả các nút
-                else if (tk.TenTKhoan == "admin")
+                else if (quyen == "admin")
                 {
                     btnThem.Visible = true;
                     btnIn.Visible = true;

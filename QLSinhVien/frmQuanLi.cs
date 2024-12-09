@@ -77,25 +77,30 @@ namespace QLSinhVien
 
         private void frmQuanLi_Load_1(object sender, EventArgs e)
         {
-            // Nếu tên tài khoản trùng với quyền "user", ẩn các nút
-            if (quyen == "user")
+            dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+            TaiKhoan tk = db.TaiKhoans.Where(p => p.TenTKhoan == frmDangNhap.tenTK).FirstOrDefault();
+            if(tk != null)
             {
-                btnAboutUs.Visible = false;
-                btnDK_TaiKhoan.Visible = false;
+                // Nếu tên tài khoản trùng với quyền "user", ẩn các nút
+                if (quyen == "user")
+                {
+                    btnAboutUs.Visible = false;
+                    btnDK_TaiKhoan.Visible = false;
 
-            }
-            // Nếu tên tài khoản trùng với quyền "admin", hiển thị tất cả các nút
-            else if (quyen == "admin")
-            {
+                }
+                // Nếu tên tài khoản trùng với quyền "admin", hiển thị tất cả các nút
+                else if (quyen == "admin")
+                {
 
-                btnAboutUs.Visible = true;
-                btnDK_TaiKhoan.Visible = true;
-            }
-            /*else
+                    btnAboutUs.Visible = true;
+                    btnDK_TaiKhoan.Visible = true;
+                }
+            }    
+            else
             {
                 MessageBox.Show("Tài khoản không tồn tại.");
                 return;
-            }*/
+            }
 
         }
 

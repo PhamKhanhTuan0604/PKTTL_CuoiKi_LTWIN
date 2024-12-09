@@ -18,6 +18,7 @@ namespace QLSinhVien
         {
             InitializeComponent();
         }
+        public static string tenTK; // dung de xac dinh ten tai khoan cho cac form khac
 
         private void btnDangNhap_Click_1(object sender, EventArgs e)
         {
@@ -55,6 +56,7 @@ namespace QLSinhVien
                         {
                             string quyen = "admin";
                             MessageBox.Show("Chào mừng admin " + username + " quay trở lại!", "Thông báo", MessageBoxButtons.OK);
+                            tenTK = txtTaiKhoan.Text;
                             frmQuanLi frm = new frmQuanLi(quyen);
                             frm.Show();
                             this.Hide(); // Ẩn form đăng nhập
@@ -64,6 +66,7 @@ namespace QLSinhVien
                         {
                             string quyen = "user";
                             MessageBox.Show("Xin chào " + username + " quay trở lại!", "Thông báo", MessageBoxButtons.OK);
+                            tenTK = txtTaiKhoan.Text;
                             frmQuanLi frm = new frmQuanLi(quyen);
                             frm.Show();
                             this.Hide(); // Ẩn form đăng nhập

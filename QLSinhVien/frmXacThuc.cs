@@ -77,5 +77,23 @@ namespace QLSinhVien
                 }    
             }
         }
+
+        private void frmXacThuc_Load(object sender, EventArgs e)
+        {
+            dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+            TaiKhoan tk = db.TaiKhoans.SingleOrDefault(p => p.TenTKhoan == taikhoan);
+            if (tk != null)
+            {
+                Random rd = new Random();
+                tk.OTP = rd.Next(1000, 9999).ToString();
+                #region Gui Email xac thuc
+                SendMail.sendMailTo(tk.Email, "Mã OPT xác thực là: " + tk.OTP);
+                tk.OPTDateSend = DateTime.Now; // kiem soat thoi gian 5 phut hieu luc
+                db.SubmitChanges();
+                #endregion
+                MessageBox.Show("Đã gửi OTP đến email của bạn", "Thông báo");
+            }
+
+        }
     }
 }

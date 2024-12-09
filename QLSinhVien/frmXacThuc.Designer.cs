@@ -125,6 +125,7 @@
             // 
             this.lblThongbao.AutoSize = true;
             this.lblThongbao.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblThongbao.ForeColor = System.Drawing.Color.Red;
             this.lblThongbao.Location = new System.Drawing.Point(107, 147);
             this.lblThongbao.Name = "lblThongbao";
             this.lblThongbao.Size = new System.Drawing.Size(321, 18);
@@ -148,6 +149,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmXacThuc";
             this.Text = "Xác thực tài khoản";
+            this.Load += new System.EventHandler(this.frmXacThuc_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

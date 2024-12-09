@@ -133,6 +133,12 @@
     <Compile Include="frmQuanLi.Designer.cs">
       <DependentUpon>frmQuanLi.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmQuenmk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuenmk.Designer.cs">
+      <DependentUpon>frmQuenmk.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmTangCa.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -213,6 +219,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmQuanLi.resx">
       <DependentUpon>frmQuanLi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuenmk.resx">
+      <DependentUpon>frmQuenmk.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTangCa.resx">
       <DependentUpon>frmTangCa.cs</DependentUpon>
