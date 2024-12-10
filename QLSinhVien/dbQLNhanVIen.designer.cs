@@ -157,7 +157,7 @@ namespace QLSinhVien
 		
 		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
 		
-		private string _ID;
+		private int _ID;
 		
 		private string _MaNV;
 		
@@ -171,7 +171,7 @@ namespace QLSinhVien
     partial void OnLoaded();
     partial void OnValidate(System.Data.Linq.ChangeAction action);
     partial void OnCreated();
-    partial void OnIDChanging(string value);
+    partial void OnIDChanging(int value);
     partial void OnIDChanged();
     partial void OnMaNVChanging(string value);
     partial void OnMaNVChanged();
@@ -187,8 +187,8 @@ namespace QLSinhVien
 			OnCreated();
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", DbType="VarChar(20) NOT NULL", CanBeNull=false, IsPrimaryKey=true)]
-		public string ID
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID", AutoSync=AutoSync.OnInsert, DbType="Int NOT NULL IDENTITY", IsPrimaryKey=true, IsDbGenerated=true)]
+		public int ID
 		{
 			get
 			{
@@ -251,7 +251,7 @@ namespace QLSinhVien
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_LyDo", DbType="NVarChar(255)")]
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_LyDo", DbType="VarChar(255)")]
 		public string LyDo
 		{
 			get
@@ -841,7 +841,7 @@ namespace QLSinhVien
 		
 		private System.Nullable<System.DateTime> _NgayKy;
 		
-		private System.Nullable<float> _HeSoLuong;
+		private System.Nullable<double> _HeSoLuong;
 		
 		private string _MaNV;
 		
@@ -861,7 +861,7 @@ namespace QLSinhVien
     partial void OnSoHDChanged();
     partial void OnNgayKyChanging(System.Nullable<System.DateTime> value);
     partial void OnNgayKyChanged();
-    partial void OnHeSoLuongChanging(System.Nullable<float> value);
+    partial void OnHeSoLuongChanging(System.Nullable<double> value);
     partial void OnHeSoLuongChanged();
     partial void OnMaNVChanging(string value);
     partial void OnMaNVChanged();
@@ -918,8 +918,8 @@ namespace QLSinhVien
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_HeSoLuong", DbType="Real")]
-		public System.Nullable<float> HeSoLuong
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_HeSoLuong", DbType="Float")]
+		public System.Nullable<double> HeSoLuong
 		{
 			get
 			{

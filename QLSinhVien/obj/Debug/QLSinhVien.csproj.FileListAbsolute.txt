@@ -771,3 +771,4 @@ D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.exe
 D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.pdb
 D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmXacThuc.resources
 D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmQuenmk.resources
+D:\2024_2025_1st\WinLT\PKTTL_CK\QLSinhVien\obj\Debug\QLSinhVien.frmNghiPhep.resources

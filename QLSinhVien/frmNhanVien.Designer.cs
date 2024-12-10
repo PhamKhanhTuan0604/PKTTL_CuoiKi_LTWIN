@@ -467,7 +467,7 @@ namespace QLSinhVien
             this.Controls.Add(this.panel1);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmHocSinh";
-            this.Text = "frmNhanVien";
+            this.Text = "Thông tin nhân viên";
             this.Load += new System.EventHandler(this.frmHocSinh_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

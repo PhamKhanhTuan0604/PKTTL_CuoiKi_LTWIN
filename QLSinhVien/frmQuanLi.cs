@@ -114,6 +114,15 @@ namespace QLSinhVien
                                 
         }
 
+        private void btnNghiPhep_Click(object sender, EventArgs e)
+        {
+            frmNghiPhep frm = new frmNghiPhep(quyen);
+            frm.TopLevel = false;
+            panel1.Controls.Add(frm);
+            frm.Dock = DockStyle.Fill;
+            frm.Show();
+        }
+
         private void btnExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -125,5 +134,6 @@ namespace QLSinhVien
             this.Close();
             frm.Show();
         }
+
     }
 }

@@ -61,18 +61,19 @@ namespace QLSinhVien
                         tk.DateActive = DateTime.Now;
                         tk.Active = true;
                         db.SubmitChanges();
-                        MessageBox.Show("Đã kích hoạt thành công tài khoản", "Thông báo");
+                        MessageBox.Show("Đã kích hoạt thành công tài khoản", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        this.Close();
                     }
                     else
                     {
-                        MessageBox.Show("Mã OTP đã hết hiệu lực. Vui lòng lấy mã OTP mới", "Thông báo");
+                        MessageBox.Show("Mã OTP đã hết hiệu lực. Vui lòng lấy mã OTP mới", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
                         btnGuiLai_Click(sender, e);
                     }
                 }
                 else
                 {
-                    MessageBox.Show("Mã OTP không chính xác. Vui lòng nhập lại.", "Thông báo");
+                    MessageBox.Show("Mã OTP không chính xác. Vui lòng nhập lại.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }    
             }
