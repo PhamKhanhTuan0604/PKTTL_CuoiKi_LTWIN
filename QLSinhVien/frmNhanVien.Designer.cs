@@ -56,16 +56,24 @@ namespace QLSinhVien
             this.btnThem = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.dgvHS = new System.Windows.Forms.DataGridView();
-            this.STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.MaNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TenNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DiaChi = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Luong = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.qLNhanVienDataSet1BindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.qLNhanVienDataSet1 = new QLSinhVien.QLNhanVienDataSet1();
             this.qLNhanVienDataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.qLNhanVienDataSet = new QLSinhVien.QLNhanVienDataSet();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MaNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TenNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DiaChi = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Luong = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label8 = new System.Windows.Forms.Label();
+            this.txtTenTK = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.txtSoHD = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.txtPhuCap = new System.Windows.Forms.TextBox();
+            this.cbbChucvu = new System.Windows.Forms.ComboBox();
             this.panel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -79,6 +87,14 @@ namespace QLSinhVien
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.panel1.Controls.Add(this.cbbChucvu);
+            this.panel1.Controls.Add(this.txtPhuCap);
+            this.panel1.Controls.Add(this.txtSoHD);
+            this.panel1.Controls.Add(this.txtTenTK);
+            this.panel1.Controls.Add(this.label11);
+            this.panel1.Controls.Add(this.label10);
+            this.panel1.Controls.Add(this.label9);
+            this.panel1.Controls.Add(this.label8);
             this.panel1.Controls.Add(this.dtpNgaySinh);
             this.panel1.Controls.Add(this.txtDiaChi);
             this.panel1.Controls.Add(this.txtHoTen);
@@ -104,7 +120,7 @@ namespace QLSinhVien
             // 
             this.dtpNgaySinh.CustomFormat = "dd/MM/yyyy";
             this.dtpNgaySinh.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtpNgaySinh.Location = new System.Drawing.Point(226, 156);
+            this.dtpNgaySinh.Location = new System.Drawing.Point(122, 156);
             this.dtpNgaySinh.Margin = new System.Windows.Forms.Padding(4);
             this.dtpNgaySinh.Name = "dtpNgaySinh";
             this.dtpNgaySinh.Size = new System.Drawing.Size(120, 22);
@@ -112,7 +128,7 @@ namespace QLSinhVien
             // 
             // txtDiaChi
             // 
-            this.txtDiaChi.Location = new System.Drawing.Point(226, 124);
+            this.txtDiaChi.Location = new System.Drawing.Point(122, 124);
             this.txtDiaChi.Margin = new System.Windows.Forms.Padding(4);
             this.txtDiaChi.Name = "txtDiaChi";
             this.txtDiaChi.Size = new System.Drawing.Size(343, 22);
@@ -120,7 +136,7 @@ namespace QLSinhVien
             // 
             // txtHoTen
             // 
-            this.txtHoTen.Location = new System.Drawing.Point(226, 88);
+            this.txtHoTen.Location = new System.Drawing.Point(122, 88);
             this.txtHoTen.Margin = new System.Windows.Forms.Padding(4);
             this.txtHoTen.Name = "txtHoTen";
             this.txtHoTen.Size = new System.Drawing.Size(343, 22);
@@ -128,7 +144,7 @@ namespace QLSinhVien
             // 
             // txtDiemTB
             // 
-            this.txtDiemTB.Location = new System.Drawing.Point(427, 154);
+            this.txtDiemTB.Location = new System.Drawing.Point(323, 154);
             this.txtDiemTB.Margin = new System.Windows.Forms.Padding(4);
             this.txtDiemTB.Name = "txtDiemTB";
             this.txtDiemTB.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -137,7 +153,7 @@ namespace QLSinhVien
             // 
             // txtMaHS
             // 
-            this.txtMaHS.Location = new System.Drawing.Point(226, 56);
+            this.txtMaHS.Location = new System.Drawing.Point(122, 56);
             this.txtMaHS.Margin = new System.Windows.Forms.Padding(4);
             this.txtMaHS.Name = "txtMaHS";
             this.txtMaHS.Size = new System.Drawing.Size(120, 22);
@@ -146,7 +162,7 @@ namespace QLSinhVien
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(146, 159);
+            this.label7.Location = new System.Drawing.Point(42, 159);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(67, 16);
@@ -156,7 +172,7 @@ namespace QLSinhVien
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(355, 163);
+            this.label6.Location = new System.Drawing.Point(262, 160);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(44, 16);
@@ -166,7 +182,7 @@ namespace QLSinhVien
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(146, 127);
+            this.label5.Location = new System.Drawing.Point(42, 127);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(47, 16);
@@ -176,7 +192,7 @@ namespace QLSinhVien
             // cbbLop
             // 
             this.cbbLop.FormattingEnabled = true;
-            this.cbbLop.Location = new System.Drawing.Point(435, 55);
+            this.cbbLop.Location = new System.Drawing.Point(331, 55);
             this.cbbLop.Margin = new System.Windows.Forms.Padding(4);
             this.cbbLop.Name = "cbbLop";
             this.cbbLop.Size = new System.Drawing.Size(133, 24);
@@ -186,7 +202,7 @@ namespace QLSinhVien
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(146, 92);
+            this.label4.Location = new System.Drawing.Point(42, 92);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(68, 16);
@@ -196,7 +212,7 @@ namespace QLSinhVien
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(354, 61);
+            this.label3.Location = new System.Drawing.Point(250, 61);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(73, 16);
@@ -206,7 +222,7 @@ namespace QLSinhVien
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(146, 60);
+            this.label2.Location = new System.Drawing.Point(42, 60);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(48, 16);
@@ -384,6 +400,26 @@ namespace QLSinhVien
             this.dgvHS.TabIndex = 0;
             this.dgvHS.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvHS_CellClick);
             // 
+            // qLNhanVienDataSet1BindingSource
+            // 
+            this.qLNhanVienDataSet1BindingSource.DataSource = this.qLNhanVienDataSet1;
+            this.qLNhanVienDataSet1BindingSource.Position = 0;
+            // 
+            // qLNhanVienDataSet1
+            // 
+            this.qLNhanVienDataSet1.DataSetName = "QLNhanVienDataSet1";
+            this.qLNhanVienDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // qLNhanVienDataSetBindingSource
+            // 
+            this.qLNhanVienDataSetBindingSource.DataSource = this.qLNhanVienDataSet;
+            this.qLNhanVienDataSetBindingSource.Position = 0;
+            // 
+            // qLNhanVienDataSet
+            // 
+            this.qLNhanVienDataSet.DataSetName = "QLNhanVienDataSet";
+            this.qLNhanVienDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
             // STT
             // 
             this.STT.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
@@ -432,31 +468,76 @@ namespace QLSinhVien
             this.Luong.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
             this.Luong.DataPropertyName = "Luong";
             this.Luong.FillWeight = 1.9F;
-            this.Luong.HeaderText = "hệ số lương";
+            this.Luong.HeaderText = "Lương nhân viên";
             this.Luong.MinimumWidth = 6;
             this.Luong.Name = "Luong";
             this.Luong.ReadOnly = true;
             this.Luong.Width = 150;
             // 
-            // qLNhanVienDataSet1BindingSource
+            // label8
             // 
-            this.qLNhanVienDataSet1BindingSource.DataSource = this.qLNhanVienDataSet1;
-            this.qLNhanVienDataSet1BindingSource.Position = 0;
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(496, 62);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(88, 16);
+            this.label8.TabIndex = 6;
+            this.label8.Text = "Tên tài khoản";
             // 
-            // qLNhanVienDataSet1
+            // txtTenTK
             // 
-            this.qLNhanVienDataSet1.DataSetName = "QLNhanVienDataSet1";
-            this.qLNhanVienDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            this.txtTenTK.Location = new System.Drawing.Point(600, 56);
+            this.txtTenTK.Name = "txtTenTK";
+            this.txtTenTK.Size = new System.Drawing.Size(158, 22);
+            this.txtTenTK.TabIndex = 7;
             // 
-            // qLNhanVienDataSetBindingSource
+            // label9
             // 
-            this.qLNhanVienDataSetBindingSource.DataSource = this.qLNhanVienDataSet;
-            this.qLNhanVienDataSetBindingSource.Position = 0;
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(497, 94);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(54, 16);
+            this.label9.TabIndex = 6;
+            this.label9.Text = "Chức vụ";
             // 
-            // qLNhanVienDataSet
+            // label10
             // 
-            this.qLNhanVienDataSet.DataSetName = "QLNhanVienDataSet";
-            this.qLNhanVienDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(496, 125);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(84, 16);
+            this.label10.TabIndex = 6;
+            this.label10.Text = "Số hợp đồng";
+            // 
+            // txtSoHD
+            // 
+            this.txtSoHD.Location = new System.Drawing.Point(600, 124);
+            this.txtSoHD.Name = "txtSoHD";
+            this.txtSoHD.Size = new System.Drawing.Size(158, 22);
+            this.txtSoHD.TabIndex = 7;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(497, 160);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(56, 16);
+            this.label11.TabIndex = 6;
+            this.label11.Text = "Phụ cấp";
+            // 
+            // txtPhuCap
+            // 
+            this.txtPhuCap.Location = new System.Drawing.Point(600, 154);
+            this.txtPhuCap.Name = "txtPhuCap";
+            this.txtPhuCap.Size = new System.Drawing.Size(158, 22);
+            this.txtPhuCap.TabIndex = 7;
+            // 
+            // cbbChucvu
+            // 
+            this.cbbChucvu.FormattingEnabled = true;
+            this.cbbChucvu.Location = new System.Drawing.Point(600, 92);
+            this.cbbChucvu.Name = "cbbChucvu";
+            this.cbbChucvu.Size = new System.Drawing.Size(158, 24);
+            this.cbbChucvu.TabIndex = 8;
             // 
             // frmHocSinh
             // 
@@ -517,5 +598,13 @@ namespace QLSinhVien
         private System.Windows.Forms.DataGridViewTextBoxColumn TenNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn DiaChi;
         private System.Windows.Forms.DataGridViewTextBoxColumn Luong;
+        private System.Windows.Forms.TextBox txtPhuCap;
+        private System.Windows.Forms.TextBox txtSoHD;
+        private System.Windows.Forms.TextBox txtTenTK;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.ComboBox cbbChucvu;
     }
 }

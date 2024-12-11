@@ -123,7 +123,7 @@ namespace QLSinhVien
             l.HeSoLuong = short.Parse(txtSiSo.Text);
             l.NgayKy = dtpNgayKy.Value;
             l.NgayBatDau = dtpNgayBatDau.Value;
-            l.NgayKetThuc = dtpNgayKetThuc. Value;
+            l.NgayKetThuc = dtpNgayKetThuc.Value;
             db.HopDongs.InsertOnSubmit(l);
             db.SubmitChanges();
             //reload du lieu

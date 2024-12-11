@@ -76,23 +76,40 @@ namespace QLSinhVien
                             tk.DateActive = DateTime.Now;
                             tk.Active = true;
                             db.SubmitChanges();
-                            MessageBox.Show("Mật khẩu mới đã cài đặt thành công", "Thông báo");
+                            MessageBox.Show("Mật khẩu mới đã cài đặt thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         }    
                     }
                     else
                     {
-                        MessageBox.Show("Mã OTP đã hết hiệu lực. Vui lòng lấy mã OTP mới", "Thông báo");
+                        MessageBox.Show("Mã OTP đã hết hiệu lực. Vui lòng lấy mã OTP mới", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
                         btnLayotp_Click(sender, e);
                     }
                 }
                 else
                 {
-                    MessageBox.Show("Mã OTP không chính xác. Vui lòng nhập lại.", "Thông báo");
+                    MessageBox.Show("Mã OTP không chính xác. Vui lòng nhập lại.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
             }    
 
+        }
+
+        private void frmQuenmk_Load(object sender, EventArgs e)
+        {
+            dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+            TaiKhoan tk = db.TaiKhoans.SingleOrDefault(p => p.TenTKhoan == taikhoan);
+            if (tk != null)
+            {
+                Random rd = new Random();
+                tk.OTP = rd.Next(1000, 9999).ToString();
+                #region Gui Email xac thuc
+                SendMail.sendMailTo(tk.Email, "Mã OPT xác thực là: " + tk.OTP);
+                tk.OPTDateSend = DateTime.Now; // kiem soat thoi gian 5 phut hieu luc
+                db.SubmitChanges();
+                #endregion
+                MessageBox.Show("Đã gửi OTP đến email của bạn", "Thông báo");
+            }
         }
     }
 }

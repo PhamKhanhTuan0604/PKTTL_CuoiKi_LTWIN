@@ -12,7 +12,7 @@ namespace QLSinhVien
 {
     public partial class frmQuanLi : Form
     {
-        private static string quyen;
+        public static string quyen;
 
         public frmQuanLi(string username)
         {
@@ -23,6 +23,7 @@ namespace QLSinhVien
 
         private void button1_Click(object sender, EventArgs e)
         {
+            panel1.Controls.Clear();
             frmHocSinh frmNV = new frmHocSinh(quyen);
             frmNV.TopLevel = false;
             panel1.Controls.Add(frmNV);
@@ -32,6 +33,7 @@ namespace QLSinhVien
 
         private void button2_Click(object sender, EventArgs e)
         {
+            panel1.Controls.Clear();
             fmrLuongNV frmLuong = new fmrLuongNV(quyen);
             frmLuong.TopLevel = false;
             panel1.Controls.Add(frmLuong);
@@ -41,6 +43,7 @@ namespace QLSinhVien
 
         private void btnAboutUs_Click(object sender, EventArgs e)
         {
+            panel1.Controls.Clear();
             frmAboutUs frmAboutUs = new frmAboutUs();
             frmAboutUs.TopLevel = false;
             panel1.Controls.Add(frmAboutUs);
@@ -50,6 +53,7 @@ namespace QLSinhVien
 
         private void button3_Click(object sender, EventArgs e)
         {
+            panel1.Controls.Clear();
             frmDiemDanh frm = new frmDiemDanh(quyen);
             frm.TopLevel = false;
             panel1.Controls.Add(frm);
@@ -59,6 +63,7 @@ namespace QLSinhVien
 
         private void button4_Click(object sender, EventArgs e)
         {
+            panel1.Controls.Clear();
             frmHopDong frm = new frmHopDong(quyen);
             frm.TopLevel = false;
             panel1.Controls.Add(frm);
@@ -68,6 +73,7 @@ namespace QLSinhVien
 
         private void btnDK_TaiKhoan_Click(object sender, EventArgs e)
         {
+            panel1.Controls.Clear();
             frmDangKy frm = new frmDangKy();
             frm.TopLevel = false;
             panel1.Controls.Add(frm);
@@ -106,6 +112,7 @@ namespace QLSinhVien
 
         private void btnTangCa_Click(object sender, EventArgs e)
         {
+            panel1.Controls.Clear();
             frmTangCa frm = new frmTangCa(quyen);            
             frm.TopLevel = false;   
             panel1.Controls.Add(frm);
@@ -116,6 +123,7 @@ namespace QLSinhVien
 
         private void btnNghiPhep_Click(object sender, EventArgs e)
         {
+            panel1.Controls.Clear();
             frmNghiPhep frm = new frmNghiPhep(quyen);
             frm.TopLevel = false;
             panel1.Controls.Add(frm);

@@ -9,6 +9,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace QLSinhVien
 {
@@ -20,12 +21,12 @@ namespace QLSinhVien
         }
         public static string tenTK; // dung de xac dinh ten tai khoan cho cac form khac
 
+
         private void btnDangNhap_Click_1(object sender, EventArgs e)
         {
             string username = txtTaiKhoan.Text;
             string password = txtMatKhau.Text;
-
-            if(username == "" || password == "")
+            if (username == "" || password == "")
             {
                 MessageBox.Show("Mời bạn nhập đầy đủ thông tin", "Thông báo", MessageBoxButtons.OK);
                 txtTaiKhoan.Focus();
@@ -122,6 +123,31 @@ namespace QLSinhVien
         private void btnThoat_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void btnQuenmk_Click(object sender, EventArgs e)
+        {
+            string username = txtTaiKhoan.Text;
+            if (username == "")
+            {
+                MessageBox.Show("Mời bạn nhập tên tài khoản", "Thông báo", MessageBoxButtons.OK);
+                txtTaiKhoan.Focus();
+                return;
+            }
+            else
+            {
+                dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+                TaiKhoan tk = db.TaiKhoans.SingleOrDefault(p => p.TenTKhoan == username);
+                if (tk != null)
+                {
+                    frmQuenmk frm = new frmQuenmk(username);
+                    frm.Show();
+                }
+                else
+                {
+                    MessageBox.Show("Tài khoản không tồn tại", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }    
         }
     }
 }

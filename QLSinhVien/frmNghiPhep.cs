@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -12,13 +13,14 @@ namespace QLSinhVien
 {
     public partial class frmNghiPhep : Form
     {
-        public frmNghiPhep()
+       /* public frmNghiPhep()
         {
             InitializeComponent();
-        }
+        }*/
         string quyen;
         public frmNghiPhep(string _quyen)
         {
+            InitializeComponent();
             quyen = _quyen;
         }
 
@@ -32,15 +34,14 @@ namespace QLSinhVien
                 // Nếu tên tài khoản trùng với quyền "user", ẩn các nút
                 if (quyen == "user")
                 {
-                    
-
+                    btnXoa.Visible = false;
+                    btnIn.Visible = false;
                 }
                 // Nếu tên tài khoản trùng với quyền "admin", hiển thị tất cả các nút
                 else if (quyen == "admin")
                 {
-                    btnThem.Visible = true;
-
-                    groupBox1.Visible = true;
+                    btnXoa.Visible = true;
+                    btnIn.Visible = true;
                 }
             }
             else
@@ -53,7 +54,8 @@ namespace QLSinhVien
         private void loadDuLieu()
         {
             dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
-            dgvNghiPhep.DataSource = db.ChiTietNghiPheps.OrderBy(p => p.ID).ToList();
+            dgvNghiPhep.DataSource = db.ChiTietNghiPheps.OrderBy(p => p.ID).
+                Select(p => new {p.ID, p.MaNV, p.NgayNghi, p.LyDo}).ToList();
             if(db.ChiTietNghiPheps.ToList().Count > 0)
                 hienThiDuLieuDong(0);
         }
@@ -75,7 +77,6 @@ namespace QLSinhVien
             ChiTietNghiPhep nghi = db.ChiTietNghiPheps.Where(p => p.ID.ToString() == id).SingleOrDefault();
             if(nghi != null)
             {
-                //txtID.Text = nghi.ID.ToString();
                 txtLyDo.Text = nghi.LyDo;
                 // chuyen kieu date trong SQL sang DateTimePicker
                 dtpNgayNghi.Value = Convert.ToDateTime(nghi.NgayNghi);
@@ -217,15 +218,26 @@ namespace QLSinhVien
 
         private void btnTim_Click(object sender, EventArgs e)
         {
-
+            string timkiem = txtTimKiem.Text;
+            dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+            if (timkiem == "") loadDuLieu();
+            else
+            {
+                dgvNghiPhep.DataSource = db.ChiTietNghiPheps.Where(p => p.MaNV.Contains(timkiem) || p.LyDo.Contains(timkiem)).ToList();
+            }    
         }
 
+        public static string username;
         private void btnIn_Click(object sender, EventArgs e)
         {
-
+            dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+            // Lay ma nhan vien
+            NhanVien nv = db.NhanViens.Where(p => p.TenTKhoan == frmDangNhap.tenTK).SingleOrDefault();
+            username = nv.TenNV;
+            string lydo = txtLyDo.Text;
+            frmXinNghiPrinter frm = new frmXinNghiPrinter(lydo);
+            frm.Show();
         }
         #endregion
-
-
     }
 }

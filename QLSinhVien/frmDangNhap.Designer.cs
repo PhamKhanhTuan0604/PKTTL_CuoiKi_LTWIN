@@ -178,6 +178,7 @@
             this.btnQuenmk.TabIndex = 9;
             this.btnQuenmk.Text = "Quên mật khẩu ?";
             this.btnQuenmk.UseVisualStyleBackColor = true;
+            this.btnQuenmk.Click += new System.EventHandler(this.btnQuenmk_Click);
             // 
             // frmDangNhap
             // 

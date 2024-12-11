@@ -52,7 +52,7 @@ namespace QLSinhVien
             }
             else
             {
-                MessageBox.Show("Tài khoản không tồn tại.");
+                MessageBox.Show("Tài khoản không tồn tại.", "Thông báo");
             }
             loadDSLop();
             loadDSHocSinh();
@@ -69,6 +69,7 @@ namespace QLSinhVien
             else dgvHS.DataSource = db.NhanViens.Where(p=> p.MaPhongBan ==malop).ToList()
                 .Select((p, index) => new { STT = index + 1,p.MaNV,p.TenNV,
                     NgaySinh = string.Format("{0:dd-MM-yyyy}", p.NgaySinh), p.DiaChi,p.Luong}).ToList();
+
         }
 
         private void loadDSLop()
@@ -80,6 +81,15 @@ namespace QLSinhVien
             cbbLop.DataSource = lst;
             cbbLop.DisplayMember = "TenPhongBan";
             cbbLop.ValueMember = "MaPhongBan";
+
+            //Phan sua load chuc vu
+            List<ChucVu> cv = db.ChucVus.OrderBy(p => p.MaChucVu).ToList();
+            ChucVu pb = new ChucVu(); pb.MaChucVu = ""; pb.TenChucVu = "Tất cả";
+            cv.Insert(0, pb);
+            cbbChucvu.DataSource = cv;
+            cbbChucvu.DisplayMember = "TenChucVu";
+            cbbChucvu.ValueMember = "MaChucVu";
+            //
         }
 
         private void cbbLop_SelectedIndexChanged(object sender, EventArgs e)
@@ -102,6 +112,11 @@ namespace QLSinhVien
             txtDiemTB.Text = hs.Luong.ToString();
             cbbLop.SelectedValue = hs.MaPhongBan;
             dtpNgaySinh.Value = (DateTime)hs.NgaySinh;
+
+            txtTenTK.Text = hs.TenTKhoan;
+            cbbChucvu.SelectedValue = hs.MaChucVu;
+            txtSoHD.Text = hs.SoHD.ToString();
+            txtPhuCap.Text = hs.PhuCap.ToString();
         }
 
         private void btnThem_Click(object sender, EventArgs e)
@@ -124,6 +139,18 @@ namespace QLSinhVien
             hs.Luong = float.Parse(txtDiemTB.Text);
             hs.NgaySinh = dtpNgaySinh.Value;
             hs.MaPhongBan = cbbLop.SelectedValue.ToString();
+
+            TaiKhoan tk = db.TaiKhoans.Where(p => p.TenTKhoan == txtTenTK.Text).SingleOrDefault();
+            if(tk != null)
+                hs.TenTKhoan = tk.TenTKhoan;
+            hs.MaChucVu = cbbChucvu.SelectedValue.ToString();
+
+            int sohd = int.Parse(txtSoHD.Text);
+            HopDong hd = db.HopDongs.Where(p => p.SoHD == sohd).SingleOrDefault();
+            if (tk != null)
+                hs.SoHD = sohd;
+
+            hs.PhuCap = float.Parse(txtPhuCap.Text);
             db.NhanViens.InsertOnSubmit(hs);
             db.SubmitChanges();
 
@@ -172,6 +199,10 @@ namespace QLSinhVien
             hs.Luong = float.Parse(txtDiemTB.Text);
             hs.NgaySinh = dtpNgaySinh.Value;
             hs.MaPhongBan = cbbLop.SelectedValue.ToString();
+
+            hs.MaChucVu = cbbChucvu.SelectedValue.ToString();
+            hs.SoHD = int.Parse(txtSoHD.Text);
+            hs.PhuCap = float.Parse(txtPhuCap.Text);
             db.SubmitChanges();
             loadDSHocSinh(cbbLop.SelectedValue.ToString());
         }
