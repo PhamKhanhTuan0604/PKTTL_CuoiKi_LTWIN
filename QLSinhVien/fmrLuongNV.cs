@@ -49,7 +49,7 @@ namespace QLSinhVien
                 return;
             }
             double tong;
-            tong = luongcb * 100000 * songay + phucap * 2;
+            tong = luongcb * 100000 * songay + phucap*1000;
             txtXuat.Text = tong.ToString();
             hs.TongLuongThang = float.Parse( txtXuat.Text);
 

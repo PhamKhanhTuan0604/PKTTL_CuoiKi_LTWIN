@@ -29,13 +29,24 @@ namespace QLSinhVien
         {
             dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
 
+            List<ChiTietNghiPhep> lst = new List<ChiTietNghiPhep>();
+            if(Lydo == "")
+            {
+                Lydo = "Tất cả";
+                lst = db.ChiTietNghiPheps.ToList();
+            }
+            else
+            {
+                lst = db.ChiTietNghiPheps.Where(p => p.LyDo.Contains(Lydo) || p.MaNV.Contains(Lydo)).ToList();
+            }    
+
             ReportParameter[] para = new ReportParameter[2];
             para[0] = new ReportParameter("Nguoidung", frmNghiPhep.username);
             para[1] = new ReportParameter("Lydonghi", Lydo);
             this.reportViewer1.LocalReport.SetParameters(para);
             this.reportViewer1.LocalReport.DataSources.Clear();
             this.reportViewer1.LocalReport.DataSources.Add(new ReportDataSource(
-                "DataSetXinNghi", db.ChiTietNghiPheps.Where(p => p.LyDo.Contains(Lydo) || p.LyDo == "").OrderBy(p => p.ID)));
+                "DataSetXinNghi", lst));
             this.reportViewer1.RefreshReport();
         }
     }

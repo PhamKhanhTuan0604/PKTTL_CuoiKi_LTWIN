@@ -344,7 +344,6 @@
                             <PaddingBottom>2pt</PaddingBottom>
                           </Style>
                         </Textbox>
-                        <rd:Selected>true</rd:Selected>
                       </CellContents>
                     </TablixCell>
                   </TablixCells>
@@ -388,7 +387,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>="Lý do xin nghỉ: " + Parameters!Lydonghi.Value</Value>
+                    <Value>="In theo: " + Parameters!Lydonghi.Value</Value>
                     <Style />
                   </TextRun>
                 </TextRuns>

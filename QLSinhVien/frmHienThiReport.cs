@@ -30,6 +30,8 @@ namespace QLSinhVien
         {
             //Nap du lieu
             dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+            NhanVien nv = db.NhanViens.Where(p => p.TenTKhoan == frmDangNhap.tenTK).SingleOrDefault();
+            string nguoiin = nv.TenNV;
             List<NhanVien> lst = new List<NhanVien>();
             if (_malop == ""){
                 _malop = "All";
@@ -37,9 +39,10 @@ namespace QLSinhVien
             }
             else lst = db.NhanViens.Where(p => p.MaPhongBan == _malop).ToList();
             //Nap du lieu parameter report
-            ReportParameter[] parameter = new ReportParameter[2];
+            ReportParameter[] parameter = new ReportParameter[3];
             parameter[0] = new ReportParameter("paMaPhongBan", _malop);
             parameter[1] = new ReportParameter("paTenPhongBan", _tenlop);
+            parameter[2] = new ReportParameter("paNguoidung", nguoiin);
             reportViewer1.LocalReport.DataSources.Clear();
             reportViewer1.LocalReport.DataSources.Add(new ReportDataSource("DataSet1",lst));
             reportViewer1.LocalReport.SetParameters(parameter);

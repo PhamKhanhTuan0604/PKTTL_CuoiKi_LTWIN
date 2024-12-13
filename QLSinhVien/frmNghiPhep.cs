@@ -189,30 +189,60 @@ namespace QLSinhVien
             else
             {
 
-                // Kiem tra trung lap
-
-                dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
-                // Lay ma nhan vien
-                NhanVien nv = db.NhanViens.Where(p => p.TenTKhoan == frmDangNhap.tenTK).SingleOrDefault();
-                string maNV = nv.MaNV;
-                // ktra co ton tai xin nghi 
-                ChiTietNghiPhep nghi = db.ChiTietNghiPheps.Where(p => p.ID == idnghi).SingleOrDefault();
-                if (nghi == null)
+                if(quyen == "user")
                 {
-                    // khong trung => khong sua
-                    MessageBox.Show("Xin nghỉ không tồn tại", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
+                    // Kiem tra trung lap
 
-                }
-                else
+                    dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+                    // Lay ma nhan vien
+                    NhanVien nv = db.NhanViens.Where(p => p.TenTKhoan == frmDangNhap.tenTK).SingleOrDefault();
+                    string maNV = nv.MaNV;
+                    // ktra co ton tai xin nghi cua nhan vien do khong
+                    ChiTietNghiPhep nghi = db.ChiTietNghiPheps.Where(p => p.ID == idnghi && p.MaNV == maNV).SingleOrDefault();
+                    if (nghi == null)
+                    {
+                        // khong trung => khong sua
+                        MessageBox.Show("Bạn chỉ được sửa xin nghỉ của mình", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+
+                    }
+                    else
+                    {
+                        // Co ton tai => sua
+                        nghi.NgayNghi = ngaynghi;
+                        nghi.LyDo = lydo;
+                        db.SubmitChanges();
+                        loadDuLieu();
+                        MessageBox.Show("Cập nhật thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                } 
+                else if (quyen == "admin")
                 {
-                    // Co ton tai => sua
-                    nghi.NgayNghi = ngaynghi;
-                    nghi.LyDo = lydo;
-                    db.SubmitChanges();
-                    loadDuLieu();
-                    MessageBox.Show("Cập nhật thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                }
+                    // Kiem tra trung lap
+
+                    dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+                    // Lay ma nhan vien
+                    NhanVien nv = db.NhanViens.Where(p => p.TenTKhoan == frmDangNhap.tenTK).SingleOrDefault();
+                    string maNV = nv.MaNV;
+                    // ktra co ton tai xin nghi cua nhan vien do khong
+                    ChiTietNghiPhep nghi = db.ChiTietNghiPheps.Where(p => p.ID == idnghi).SingleOrDefault();
+                    if (nghi == null)
+                    {
+                        // khong trung => khong sua
+                        MessageBox.Show("Xin nghỉ không tồn tại", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+
+                    }
+                    else
+                    {
+                        // Co ton tai => sua
+                        nghi.NgayNghi = ngaynghi;
+                        nghi.LyDo = lydo;
+                        db.SubmitChanges();
+                        loadDuLieu();
+                        MessageBox.Show("Cập nhật thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                }    
             }
         }
 
@@ -223,7 +253,7 @@ namespace QLSinhVien
             if (timkiem == "") loadDuLieu();
             else
             {
-                dgvNghiPhep.DataSource = db.ChiTietNghiPheps.Where(p => p.MaNV.Contains(timkiem) || p.LyDo.Contains(timkiem)).ToList();
+                dgvNghiPhep.DataSource = db.ChiTietNghiPheps.Where(p => p.MaNV.Contains(timkiem) || p.LyDo.Contains(timkiem)).Select(p => new { p.ID, p.MaNV, p.NgayNghi, p.LyDo }).ToList();
             }    
         }
 
@@ -234,7 +264,7 @@ namespace QLSinhVien
             // Lay ma nhan vien
             NhanVien nv = db.NhanViens.Where(p => p.TenTKhoan == frmDangNhap.tenTK).SingleOrDefault();
             username = nv.TenNV;
-            string lydo = txtLyDo.Text;
+            string lydo = txtTimKiem.Text;
             frmXinNghiPrinter frm = new frmXinNghiPrinter(lydo);
             frm.Show();
         }
