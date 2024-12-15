@@ -85,7 +85,7 @@ namespace QLSinhVien
             }
             else
             {
-                MessageBox.Show("Tài khoản không tồn tại.");
+                MessageBox.Show("Tài khoản không tồn tại.","Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             loadDSHocSinh();
         }

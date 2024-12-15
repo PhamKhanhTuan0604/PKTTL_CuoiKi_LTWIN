@@ -39,6 +39,7 @@
             this.btnCapNhat = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.chkHienmk = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -51,7 +52,7 @@
             this.label1.Location = new System.Drawing.Point(187, 58);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(265, 29);
-            this.label1.TabIndex = 0;
+            this.label1.TabIndex = 1;
             this.label1.Text = "LẤY LẠI  MẬT KHẨU";
             // 
             // label3
@@ -89,7 +90,8 @@
             this.txtMatkhau.Location = new System.Drawing.Point(280, 156);
             this.txtMatkhau.Name = "txtMatkhau";
             this.txtMatkhau.Size = new System.Drawing.Size(221, 22);
-            this.txtMatkhau.TabIndex = 1;
+            this.txtMatkhau.TabIndex = 0;
+            this.txtMatkhau.TextChanged += new System.EventHandler(this.chkHienmk_CheckedChanged);
             // 
             // txtNhapLaimk
             // 
@@ -97,13 +99,14 @@
             this.txtNhapLaimk.Name = "txtNhapLaimk";
             this.txtNhapLaimk.Size = new System.Drawing.Size(221, 22);
             this.txtNhapLaimk.TabIndex = 1;
+            this.txtNhapLaimk.TextChanged += new System.EventHandler(this.chkHienmk_CheckedChanged);
             // 
             // txtOtp
             // 
             this.txtOtp.Location = new System.Drawing.Point(280, 238);
             this.txtOtp.Name = "txtOtp";
             this.txtOtp.Size = new System.Drawing.Size(221, 22);
-            this.txtOtp.TabIndex = 1;
+            this.txtOtp.TabIndex = 2;
             // 
             // btnLayotp
             // 
@@ -126,7 +129,7 @@
             this.btnCapNhat.Location = new System.Drawing.Point(233, 317);
             this.btnCapNhat.Name = "btnCapNhat";
             this.btnCapNhat.Size = new System.Drawing.Size(136, 51);
-            this.btnCapNhat.TabIndex = 2;
+            this.btnCapNhat.TabIndex = 3;
             this.btnCapNhat.Text = "Cập nhật";
             this.btnCapNhat.UseVisualStyleBackColor = false;
             this.btnCapNhat.Click += new System.EventHandler(this.btnCapNhat_Click);
@@ -154,12 +157,25 @@
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             // 
+            // chkHienmk
+            // 
+            this.chkHienmk.AutoSize = true;
+            this.chkHienmk.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chkHienmk.Location = new System.Drawing.Point(384, 278);
+            this.chkHienmk.Name = "chkHienmk";
+            this.chkHienmk.Size = new System.Drawing.Size(127, 20);
+            this.chkHienmk.TabIndex = 4;
+            this.chkHienmk.Text = "Hiện mật khẩu";
+            this.chkHienmk.UseVisualStyleBackColor = true;
+            this.chkHienmk.CheckedChanged += new System.EventHandler(this.chkHienmk_CheckedChanged);
+            // 
             // frmQuenmk
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PaleTurquoise;
             this.ClientSize = new System.Drawing.Size(594, 402);
+            this.Controls.Add(this.chkHienmk);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.btnCapNhat);
@@ -193,5 +209,6 @@
         private System.Windows.Forms.Button btnCapNhat;
         private System.Windows.Forms.Button btnThoat;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.CheckBox chkHienmk;
     }
 }

@@ -5,7 +5,7 @@
       <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
       <Column Name="MaNV" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
       <Column Name="NgayNghi" Type="System.DateTime" DbType="Date" CanBeNull="true" />
-      <Column Name="LyDo" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="LyDo" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
       <Association Name="NhanVien_ChiTietNghiPhep" Member="NhanVien" ThisKey="MaNV" OtherKey="MaNV" Type="NhanVien" IsForeignKey="true" />
     </Type>
   </Table>

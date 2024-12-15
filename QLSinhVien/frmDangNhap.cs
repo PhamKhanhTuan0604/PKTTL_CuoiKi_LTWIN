@@ -86,26 +86,6 @@ namespace QLSinhVien
         
             }
                 
-                
-            /*
-            using (var context = new dbQLSinhVienDataContext())
-            {
-
-                var user = context.TaiKhoans.FirstOrDefault(u => u.TenTKhoan == username && u.MatKhau == password);
-
-                if (user != null)
-                {
-                    MessageBox.Show("Đăng nhập thành công");
-                    frmQuanLi frmQLNS = new frmQuanLi(user.TenTKhoan); 
-                    frmQLNS.Show();
-                    this.Hide(); // Ẩn form đăng nhập
-                }
-                else
-                {
-                    MessageBox.Show("Đăng nhập thất bại");
-                }
-            }
-            */
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

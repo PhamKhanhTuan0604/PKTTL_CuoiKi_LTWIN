@@ -8,6 +8,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
 
 namespace QLSinhVien
 {
@@ -108,8 +109,22 @@ namespace QLSinhVien
                 tk.OPTDateSend = DateTime.Now; // kiem soat thoi gian 5 phut hieu luc
                 db.SubmitChanges();
                 #endregion
-                MessageBox.Show("Đã gửi OTP đến email của bạn", "Thông báo");
+                MessageBox.Show("Đã gửi OTP đến email của bạn", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
+        }
+
+        private void chkHienmk_CheckedChanged(object sender, EventArgs e)
+        {
+            if(chkHienmk.Checked)
+            {
+                txtMatkhau.UseSystemPasswordChar = false;
+                txtNhapLaimk.UseSystemPasswordChar = false;
+            }   
+            else
+            {
+                txtMatkhau.UseSystemPasswordChar = true;
+                txtNhapLaimk.UseSystemPasswordChar = true;
+            }    
         }
     }
 }
