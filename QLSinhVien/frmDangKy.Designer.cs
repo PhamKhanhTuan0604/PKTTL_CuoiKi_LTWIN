@@ -162,7 +162,7 @@
             this.Controls.Add(this.txtMK_DK);
             this.Controls.Add(this.txtTenTK_DK);
             this.Name = "frmDangKy";
-            this.Text = "frmDangKy";
+            this.Text = "ĐĂNG KÝ";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

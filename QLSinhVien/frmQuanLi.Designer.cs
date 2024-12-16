@@ -205,7 +205,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Name = "frmQuanLi";
-            this.Text = "frmQuanLi";
+            this.Text = "QUẢN LÍ NHÂN VIÊN";
             this.Load += new System.EventHandler(this.frmQuanLi_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.btnThoat.ResumeLayout(false);

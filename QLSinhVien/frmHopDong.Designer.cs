@@ -52,6 +52,10 @@ namespace QLSinhVien
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.dgvLop = new System.Windows.Forms.DataGridView();
+            this.qLNhanVienDataSetHopDongBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.qLNhanVienDataSetHopDong = new QLSinhVien.QLNhanVienDataSetHopDong();
+            this.qLNhanVienDataSetLuong = new QLSinhVien.QLNhanVienDataSetLuong();
+            this.qLNhanVienDataSetLuongBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.SoHD = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.NgayKy = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -59,10 +63,6 @@ namespace QLSinhVien
             this.MaNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.NgayBatDau = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.NgayKetThuc = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.qLNhanVienDataSetHopDongBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.qLNhanVienDataSetHopDong = new QLSinhVien.QLNhanVienDataSetHopDong();
-            this.qLNhanVienDataSetLuong = new QLSinhVien.QLNhanVienDataSetLuong();
-            this.qLNhanVienDataSetLuongBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.panel1.SuspendLayout();
             this.grbDieuKhien.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -323,72 +323,6 @@ namespace QLSinhVien
             this.dgvLop.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvLop_CellClick);
             this.dgvLop.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvLop_CellContentClick);
             // 
-            // STT
-            // 
-            this.STT.DataPropertyName = "STT";
-            this.STT.HeaderText = "STT";
-            this.STT.MinimumWidth = 6;
-            this.STT.Name = "STT";
-            this.STT.ReadOnly = true;
-            this.STT.Width = 50;
-            // 
-            // SoHD
-            // 
-            this.SoHD.DataPropertyName = "SoHD";
-            this.SoHD.HeaderText = "SoHD";
-            this.SoHD.MinimumWidth = 6;
-            this.SoHD.Name = "SoHD";
-            this.SoHD.ReadOnly = true;
-            this.SoHD.Width = 125;
-            // 
-            // NgayKy
-            // 
-            this.NgayKy.DataPropertyName = "NgayKy";
-            this.NgayKy.HeaderText = "NgayKy";
-            this.NgayKy.MinimumWidth = 6;
-            this.NgayKy.Name = "NgayKy";
-            this.NgayKy.ReadOnly = true;
-            this.NgayKy.Width = 150;
-            // 
-            // HeSoLuong
-            // 
-            this.HeSoLuong.DataPropertyName = "HeSoLuong";
-            this.HeSoLuong.HeaderText = "HeSoLuong";
-            this.HeSoLuong.MinimumWidth = 6;
-            this.HeSoLuong.Name = "HeSoLuong";
-            this.HeSoLuong.ReadOnly = true;
-            this.HeSoLuong.Width = 125;
-            // 
-            // MaNV
-            // 
-            this.MaNV.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
-            this.MaNV.DataPropertyName = "MaNV";
-            this.MaNV.HeaderText = "MaNV";
-            this.MaNV.MinimumWidth = 6;
-            this.MaNV.Name = "MaNV";
-            this.MaNV.ReadOnly = true;
-            this.MaNV.Width = 125;
-            // 
-            // NgayBatDau
-            // 
-            this.NgayBatDau.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.NgayBatDau.DataPropertyName = "NgayBatDau";
-            this.NgayBatDau.FillWeight = 2F;
-            this.NgayBatDau.HeaderText = "NgayBatDau";
-            this.NgayBatDau.MinimumWidth = 6;
-            this.NgayBatDau.Name = "NgayBatDau";
-            this.NgayBatDau.ReadOnly = true;
-            // 
-            // NgayKetThuc
-            // 
-            this.NgayKetThuc.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.NgayKetThuc.DataPropertyName = "NgayKetThuc";
-            this.NgayKetThuc.FillWeight = 2F;
-            this.NgayKetThuc.HeaderText = "NgayKetThuc";
-            this.NgayKetThuc.MinimumWidth = 6;
-            this.NgayKetThuc.Name = "NgayKetThuc";
-            this.NgayKetThuc.ReadOnly = true;
-            // 
             // qLNhanVienDataSetHopDongBindingSource
             // 
             this.qLNhanVienDataSetHopDongBindingSource.DataSource = this.qLNhanVienDataSetHopDong;
@@ -409,6 +343,72 @@ namespace QLSinhVien
             this.qLNhanVienDataSetLuongBindingSource.DataSource = this.qLNhanVienDataSetLuong;
             this.qLNhanVienDataSetLuongBindingSource.Position = 0;
             // 
+            // STT
+            // 
+            this.STT.DataPropertyName = "STT";
+            this.STT.HeaderText = "STT";
+            this.STT.MinimumWidth = 6;
+            this.STT.Name = "STT";
+            this.STT.ReadOnly = true;
+            this.STT.Width = 50;
+            // 
+            // SoHD
+            // 
+            this.SoHD.DataPropertyName = "SoHD";
+            this.SoHD.HeaderText = "Số hợp đồng";
+            this.SoHD.MinimumWidth = 6;
+            this.SoHD.Name = "SoHD";
+            this.SoHD.ReadOnly = true;
+            this.SoHD.Width = 125;
+            // 
+            // NgayKy
+            // 
+            this.NgayKy.DataPropertyName = "NgayKy";
+            this.NgayKy.HeaderText = "Ngày ký";
+            this.NgayKy.MinimumWidth = 6;
+            this.NgayKy.Name = "NgayKy";
+            this.NgayKy.ReadOnly = true;
+            this.NgayKy.Width = 150;
+            // 
+            // HeSoLuong
+            // 
+            this.HeSoLuong.DataPropertyName = "HeSoLuong";
+            this.HeSoLuong.HeaderText = "Lương";
+            this.HeSoLuong.MinimumWidth = 6;
+            this.HeSoLuong.Name = "HeSoLuong";
+            this.HeSoLuong.ReadOnly = true;
+            this.HeSoLuong.Width = 125;
+            // 
+            // MaNV
+            // 
+            this.MaNV.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
+            this.MaNV.DataPropertyName = "MaNV";
+            this.MaNV.HeaderText = "Mã NV";
+            this.MaNV.MinimumWidth = 6;
+            this.MaNV.Name = "MaNV";
+            this.MaNV.ReadOnly = true;
+            this.MaNV.Width = 125;
+            // 
+            // NgayBatDau
+            // 
+            this.NgayBatDau.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.NgayBatDau.DataPropertyName = "NgayBatDau";
+            this.NgayBatDau.FillWeight = 2F;
+            this.NgayBatDau.HeaderText = "Ngày bắt đầu";
+            this.NgayBatDau.MinimumWidth = 6;
+            this.NgayBatDau.Name = "NgayBatDau";
+            this.NgayBatDau.ReadOnly = true;
+            // 
+            // NgayKetThuc
+            // 
+            this.NgayKetThuc.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.NgayKetThuc.DataPropertyName = "NgayKetThuc";
+            this.NgayKetThuc.FillWeight = 2F;
+            this.NgayKetThuc.HeaderText = "Ngày kết thúc";
+            this.NgayKetThuc.MinimumWidth = 6;
+            this.NgayKetThuc.Name = "NgayKetThuc";
+            this.NgayKetThuc.ReadOnly = true;
+            // 
             // frmHopDong
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -418,7 +418,7 @@ namespace QLSinhVien
             this.Controls.Add(this.panel1);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmHopDong";
-            this.Text = "Form1";
+            this.Text = "THÔNG TIN HỢP ĐỒNG";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -460,6 +460,7 @@ namespace QLSinhVien
         private System.Windows.Forms.BindingSource qLNhanVienDataSetLuongBindingSource;
         private QLNhanVienDataSetLuong qLNhanVienDataSetLuong;
         private System.Windows.Forms.Button btnIn;
+        private System.Windows.Forms.GroupBox grbDieuKhien;
         private System.Windows.Forms.DataGridViewTextBoxColumn STT;
         private System.Windows.Forms.DataGridViewTextBoxColumn SoHD;
         private System.Windows.Forms.DataGridViewTextBoxColumn NgayKy;
@@ -467,7 +468,6 @@ namespace QLSinhVien
         private System.Windows.Forms.DataGridViewTextBoxColumn MaNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn NgayBatDau;
         private System.Windows.Forms.DataGridViewTextBoxColumn NgayKetThuc;
-        private System.Windows.Forms.GroupBox grbDieuKhien;
     }
 }
 

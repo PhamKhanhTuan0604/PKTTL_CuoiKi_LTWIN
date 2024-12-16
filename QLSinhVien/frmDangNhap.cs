@@ -41,7 +41,7 @@ namespace QLSinhVien
                     //Kiem tra trang thai active chua => Nhap du lieu ma OTP
                     if(tk.Active == false)
                     {
-                        MessageBox.Show("Tài khoản chưa xác thực. Vui lòng nhập OTP để xác thực!", "Thông báo");
+                        MessageBox.Show("Tài khoản chưa xác thực. Vui lòng nhập OTP để xác thực!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         frmXacThuc frm = new frmXacThuc(tk.TenTKhoan);
                         frm.Show();
                         return;
@@ -56,7 +56,7 @@ namespace QLSinhVien
                         if(tk.LevelID == 1)
                         {
                             string quyen = "admin";
-                            MessageBox.Show("Chào mừng admin " + username + " quay trở lại!", "Thông báo", MessageBoxButtons.OK);
+                            MessageBox.Show("Chào mừng admin " + username + " quay trở lại!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                             tenTK = txtTaiKhoan.Text;
                             frmQuanLi frm = new frmQuanLi(quyen);
                             frm.Show();
@@ -66,7 +66,7 @@ namespace QLSinhVien
                         if(tk.LevelID == 0)
                         {
                             string quyen = "user";
-                            MessageBox.Show("Xin chào " + username + " quay trở lại!", "Thông báo", MessageBoxButtons.OK);
+                            MessageBox.Show("Xin chào " + username + " quay trở lại!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                             tenTK = txtTaiKhoan.Text;
                             frmQuanLi frm = new frmQuanLi(quyen);
                             frm.Show();
@@ -80,7 +80,7 @@ namespace QLSinhVien
                 }
                 
     
-                 MessageBox.Show("Tài khoản không tồn tại. Mời nhập lại!!", "Thông báo", MessageBoxButtons.OK);
+                 MessageBox.Show("Đăng nhập không thành công. Mời nhập lại!!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                  txtTaiKhoan.Focus();
                  return;
         

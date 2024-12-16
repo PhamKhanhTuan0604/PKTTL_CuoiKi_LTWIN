@@ -20,6 +20,7 @@ namespace QLSinhVien
             InitializeComponent();
             _quyen = quyen;
         }
+        int rowchose;
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
@@ -61,7 +62,7 @@ namespace QLSinhVien
                 double hours = (double)totalHours + (double)totalMinutes / 60;
                 int gio = (int)hours;
                 //txtGio.Text = $"     {totalHours} giờ  {totalMinutes} phút";
-                int Tien = (int)hours * 1000;
+                int Tien = (int)hours * 100000;
                 txtGio.Text = $"     {totalHours} giờ  {totalMinutes} phút";
                 txtLuong.Text = Tien.ToString();
 
@@ -95,19 +96,21 @@ namespace QLSinhVien
                 if (_quyen == "user")
                 {
                     btnTinh.Visible = false;
-                   
+                    btnThem.Visible = false;
+                    btnXoa.Visible = false;
 
                 }
                 // Nếu tên tài khoản trùng với quyền "admin", hiển thị tất cả các nút
                 else if (_quyen == "admin")
                 {
                     btnTinh.Visible = true;
-                 
+                    btnThem.Visible = true;
+                    btnXoa.Visible = true;
                 }
             }
             else
             {
-                MessageBox.Show("Tài khoản không tồn tại.");
+                MessageBox.Show("Tài khoản không tồn tại.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
             loadDSHocSinh();
@@ -136,12 +139,97 @@ namespace QLSinhVien
         {
             int indexRow = e.RowIndex;
             if (indexRow < 0) return;
+            rowchose = indexRow;
             string mahs = dgvHS[1, indexRow].Value.ToString();
 
             dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
             TangCa hs = db.TangCas.Where(p => p.IDTangCa == mahs).SingleOrDefault();
             txtMaNV.Text = hs.IDTangCa;
             txtTenNV.Text = hs.MaNV;
+        }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            string id = txtMaNV.Text;
+            string manv = txtTenNV.Text;
+            dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+            // Xem nhan vien co ton tai khong
+            NhanVien nv = db.NhanViens.Where(p => p.MaNV == manv).SingleOrDefault();
+            if(nv == null)
+            {
+                MessageBox.Show("Nhân viên không tồn tại", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }    
+            // xem trung id tang ca khong
+            TangCa tc = db.TangCas.Where(p => p.IDTangCa == id && p.MaNV == manv).SingleOrDefault();
+            if(tc != null)
+            {
+                MessageBox.Show("Trùng ID tăng ca", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }   
+            else
+            {
+                // Kiem tra gio tang ca hop li khong
+                DateTime startTime = dateTimePicker1.Value;
+                DateTime endTime = dateTimePicker2.Value;
+
+                if (endTime < startTime)
+                {
+                    MessageBox.Show("Thời gian kết thúc phải lớn hơn thời gian bắt đầu.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+                // Tinh gio tang ca
+                TimeSpan overtime = endTime - startTime;
+                int totalHours = (int)overtime.TotalHours;
+                int totalMinutes = overtime.Minutes;
+                double hours = (double)totalHours + (double)totalMinutes / 60;
+                int gio = (int)hours;
+                int Tien = (int)hours * 100000;
+                try
+                {
+                    tc = new TangCa();
+                    tc.IDTangCa = id;
+                    tc.MaNV = manv;
+                    tc.SoGioTC = gio;
+                    tc.LuongTC = Tien;
+                    db.TangCas.InsertOnSubmit(tc);
+                    db.SubmitChanges();
+                    
+                    loadDSHocSinh();
+                    MessageBox.Show("Thêm tăng ca thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Có lỗi xảy ra: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }    
+        }
+
+        private void btnXoa_Click(object sender, EventArgs e)
+        {
+            string idtc = dgvHS.Rows[rowchose].Cells[1].Value.ToString();
+            dbQLSinhVienDataContext db = new dbQLSinhVienDataContext();
+            // xem trung id tang ca khong
+            TangCa tc = db.TangCas.Where(p => p.IDTangCa == idtc).SingleOrDefault();
+            if (tc == null)
+            {
+                MessageBox.Show("Không có thông tin tăng ca", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            else
+            {   
+                try
+                {
+                    db.TangCas.DeleteOnSubmit(tc);
+                    db.SubmitChanges();
+                    loadDSHocSinh();
+                    MessageBox.Show("Xóa tăng ca thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Có lỗi xảy ra: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
         }
     }
 }

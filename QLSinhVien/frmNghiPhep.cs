@@ -98,7 +98,7 @@ namespace QLSinhVien
             //int id = int.Parse(txtID.Text);
 
             // Kiem tra co dien day du khong
-            if(lydo == "" || DateTime.Now > ngaynghi)
+            if(lydo == "" || DateTime.Now.Date > ngaynghi.Date)
             {
                 //ngay nghi o qua khu => khong nghi duoc
                 MessageBox.Show("Ngày nghỉ của bạn không hợp lệ. Mời thực hiện lại", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);

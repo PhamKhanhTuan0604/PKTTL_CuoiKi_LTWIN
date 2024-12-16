@@ -52,6 +52,8 @@
             this.qLNhanVienDataSetTangCa = new QLSinhVien.QLNhanVienDataSetTangCa();
             this.tangCaBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.tangCaTableAdapter = new QLSinhVien.QLNhanVienDataSetTangCaTableAdapters.TangCaTableAdapter();
+            this.btnThem = new System.Windows.Forms.Button();
+            this.btnXoa = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvHS)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.qLNhanVienDataSetTangCaBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.qLNhanVienDataSetTangCa)).BeginInit();
@@ -161,7 +163,7 @@
             // 
             this.btnTinh.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTinh.ForeColor = System.Drawing.Color.Red;
-            this.btnTinh.Location = new System.Drawing.Point(491, 178);
+            this.btnTinh.Location = new System.Drawing.Point(446, 178);
             this.btnTinh.Name = "btnTinh";
             this.btnTinh.Size = new System.Drawing.Size(274, 66);
             this.btnTinh.TabIndex = 9;
@@ -220,7 +222,7 @@
             // 
             this.IDTangCa.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.IDTangCa.DataPropertyName = "IDTangCa";
-            this.IDTangCa.HeaderText = "IDTangCa";
+            this.IDTangCa.HeaderText = "ID Tăng ca";
             this.IDTangCa.MinimumWidth = 6;
             this.IDTangCa.Name = "IDTangCa";
             // 
@@ -228,7 +230,7 @@
             // 
             this.MaNV.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.MaNV.DataPropertyName = "MaNV";
-            this.MaNV.HeaderText = "MaNV";
+            this.MaNV.HeaderText = "Mã NV";
             this.MaNV.MinimumWidth = 6;
             this.MaNV.Name = "MaNV";
             // 
@@ -236,7 +238,7 @@
             // 
             this.SoGioTC.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.SoGioTC.DataPropertyName = "SoGIoTC";
-            this.SoGioTC.HeaderText = "số giờ tăng ca";
+            this.SoGioTC.HeaderText = "Số giờ tăng ca";
             this.SoGioTC.MinimumWidth = 6;
             this.SoGioTC.Name = "SoGioTC";
             // 
@@ -244,7 +246,7 @@
             // 
             this.LuongTC.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.LuongTC.DataPropertyName = "LuongTC";
-            this.LuongTC.HeaderText = "lương tăng ca";
+            this.LuongTC.HeaderText = "Lương tăng ca";
             this.LuongTC.MinimumWidth = 6;
             this.LuongTC.Name = "LuongTC";
             // 
@@ -267,12 +269,38 @@
             // 
             this.tangCaTableAdapter.ClearBeforeFill = true;
             // 
+            // btnThem
+            // 
+            this.btnThem.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnThem.ForeColor = System.Drawing.Color.Red;
+            this.btnThem.Location = new System.Drawing.Point(300, 178);
+            this.btnThem.Name = "btnThem";
+            this.btnThem.Size = new System.Drawing.Size(109, 38);
+            this.btnThem.TabIndex = 13;
+            this.btnThem.Text = "Thêm";
+            this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
+            // 
+            // btnXoa
+            // 
+            this.btnXoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnXoa.ForeColor = System.Drawing.Color.Red;
+            this.btnXoa.Location = new System.Drawing.Point(756, 178);
+            this.btnXoa.Name = "btnXoa";
+            this.btnXoa.Size = new System.Drawing.Size(109, 38);
+            this.btnXoa.TabIndex = 14;
+            this.btnXoa.Text = "Xóa";
+            this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
+            // 
             // frmTangCa
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(1196, 562);
+            this.Controls.Add(this.btnXoa);
+            this.Controls.Add(this.btnThem);
             this.Controls.Add(this.dgvHS);
             this.Controls.Add(this.txtGio);
             this.Controls.Add(this.label6);
@@ -289,7 +317,7 @@
             this.Controls.Add(this.label1);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmTangCa";
-            this.Text = "frmTangCa";
+            this.Text = "QUẢN LÍ TĂNG CA";
             this.Load += new System.EventHandler(this.frmTangCa_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvHS)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.qLNhanVienDataSetTangCaBindingSource)).EndInit();
@@ -325,5 +353,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn MaNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn SoGioTC;
         private System.Windows.Forms.DataGridViewTextBoxColumn LuongTC;
+        private System.Windows.Forms.Button btnThem;
+        private System.Windows.Forms.Button btnXoa;
     }
 }
